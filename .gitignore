@@ -1,0 +1,10 @@
+node_modules
+dist
+.tmp
+bower_components
+.idea
+assets
+mongodb.sh
+mongoshell.sh
+backend/config.json
+data/db/
